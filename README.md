@@ -16,8 +16,9 @@ Beta 1.03
 ```
 
 → Ponto eletrônico integrado
-→ Calcular jornada de trabalho
-→ Capturar screenshots integrado
+→ Calculador jornada de trabalho integrado
+→ Historico de entradas e saidas registradas
+→ Capturador de screenshots integrado
 → TBD
 → TBD
 
