@@ -10,7 +10,7 @@ Agilizar  processos básiscos e rotineiros da equipe Stefanini em seus clientes.
 ```
 ## Versão Atual
 ```
-Beta 1.07
+Beta 1.03
 ```
 ## Funcionalidades
 ```
@@ -27,9 +27,10 @@ Beta 1.07
 
 
 
->Tela inicial
+>Tela inicial (Last edit on 1.03)
 
-![home](https://user-images.githubusercontent.com/36079471/66049126-31846900-e501-11e9-964b-a415f545e1aa.PNG)
+![novohome](https://user-images.githubusercontent.com/36079471/66069547-f5173400-e525-11e9-83ae-5090e4081153.PNG)
+
 
 >Calcular jornada
 
