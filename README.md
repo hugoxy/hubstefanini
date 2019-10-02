@@ -14,14 +14,13 @@ Beta 1.07
 ```
 ## Funcionalidades
 ```
-• Ponto eletrônico integrado
-• Calcular jornada de trabalho
-• Capturar screenshots integrado
-• TBD
-• TBD
-• TBD
-• TBD
-• TBD
+
+→ Ponto eletrônico integrado
+→ Calcular jornada de trabalho
+→ Capturar screenshots integrado
+→ TBD
+→ TBD
+
 ```
 
 ## Telas
