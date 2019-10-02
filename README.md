@@ -25,17 +25,19 @@ Beta 1.07
 
 ## Telas
 
+
+
 >Tela inicial
 
-![home](https://user-images.githubusercontent.com/36079471/66045009-380ee280-e4f9-11e9-87ab-efaff1783458.PNG)
+![home](https://user-images.githubusercontent.com/36079471/66049126-31846900-e501-11e9-964b-a415f545e1aa.PNG)
 
 >Calcular jornada
 
-![jornada](https://user-images.githubusercontent.com/36079471/66045011-380ee280-e4f9-11e9-96eb-83babb976ad3.PNG)
+![jornada](https://user-images.githubusercontent.com/36079471/66049127-31846900-e501-11e9-96c6-f6f333184322.PNG)
 
 >Ponto eletronico integrado
 
-![pontoeletronico](https://user-images.githubusercontent.com/36079471/66045012-380ee280-e4f9-11e9-830b-175a95e1d866.PNG)
+![pontoeletronico](https://user-images.githubusercontent.com/36079471/66049125-31846900-e501-11e9-858e-d63f9970e318.PNG)
 
 >Screenshots integrado
 
