@@ -10,3 +10,15 @@ C:\Users\f84643c\Documents\14 - Pessoal\hub_stefanini_1\hub_stefanini_1\obj\Debu
 C:\Users\f84643c\Documents\14 - Pessoal\hub_stefanini_1\hub_stefanini_1\obj\Debug\hub_stefanini_1.TelaUm.resources
 C:\Users\f84643c\Documents\14 - Pessoal\hub_stefanini_1\hub_stefanini_1\obj\Debug\hub_stefanini_1.TelaZero.resources
 C:\Users\f84643c\Documents\14 - Pessoal\hub_stefanini_1\hub_stefanini_1\obj\Debug\hub_stefanini_1.csprojAssemblyReference.cache
+C:\github\hs\hubstefanini\hub_stefanini_1\bin\Debug\hub_stefanini_1.exe.config
+C:\github\hs\hubstefanini\hub_stefanini_1\bin\Debug\hub_stefanini_1.exe
+C:\github\hs\hubstefanini\hub_stefanini_1\bin\Debug\hub_stefanini_1.pdb
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.Form1.resources
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.Properties.Resources.resources
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.TelaUm.resources
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.TelaZero.resources
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.csproj.GenerateResource.cache
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.csproj.CoreCompileInputs.cache
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.exe
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.pdb
+C:\github\hs\hubstefanini\hub_stefanini_1\obj\Debug\hub_stefanini_1.csprojAssemblyReference.cache

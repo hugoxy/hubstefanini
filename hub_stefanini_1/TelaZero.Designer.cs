@@ -38,11 +38,13 @@
             this.pcYou = new System.Windows.Forms.PictureBox();
             this.pcFace = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.panel3 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pcTwt)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcLink)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcYou)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcFace)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // timer1
@@ -79,8 +81,8 @@
             // 
             this.lbSoc.AutoSize = true;
             this.lbSoc.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbSoc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(80)))), ((int)(((byte)(162)))));
-            this.lbSoc.Location = new System.Drawing.Point(47, 573);
+            this.lbSoc.ForeColor = System.Drawing.Color.White;
+            this.lbSoc.Location = new System.Drawing.Point(23, 0);
             this.lbSoc.Name = "lbSoc";
             this.lbSoc.Size = new System.Drawing.Size(91, 17);
             this.lbSoc.TabIndex = 9;
@@ -88,10 +90,10 @@
             // 
             // pcTwt
             // 
-            this.pcTwt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(80)))), ((int)(((byte)(162)))));
+            this.pcTwt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
             this.pcTwt.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pcTwt.Image = global::hub_stefanini_1.Properties.Resources.twt;
-            this.pcTwt.Location = new System.Drawing.Point(122, 593);
+            this.pcTwt.Location = new System.Drawing.Point(101, 20);
             this.pcTwt.Name = "pcTwt";
             this.pcTwt.Size = new System.Drawing.Size(24, 24);
             this.pcTwt.TabIndex = 8;
@@ -100,10 +102,10 @@
             // 
             // pcLink
             // 
-            this.pcLink.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(80)))), ((int)(((byte)(162)))));
+            this.pcLink.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
             this.pcLink.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pcLink.Image = global::hub_stefanini_1.Properties.Resources.linkd2;
-            this.pcLink.Location = new System.Drawing.Point(62, 593);
+            this.pcLink.Location = new System.Drawing.Point(41, 20);
             this.pcLink.Name = "pcLink";
             this.pcLink.Size = new System.Drawing.Size(24, 24);
             this.pcLink.TabIndex = 7;
@@ -112,10 +114,10 @@
             // 
             // pcYou
             // 
-            this.pcYou.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(80)))), ((int)(((byte)(162)))));
+            this.pcYou.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
             this.pcYou.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pcYou.Image = global::hub_stefanini_1.Properties.Resources.yb;
-            this.pcYou.Location = new System.Drawing.Point(92, 593);
+            this.pcYou.Location = new System.Drawing.Point(71, 20);
             this.pcYou.Name = "pcYou";
             this.pcYou.Size = new System.Drawing.Size(24, 24);
             this.pcYou.TabIndex = 6;
@@ -124,10 +126,10 @@
             // 
             // pcFace
             // 
-            this.pcFace.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(80)))), ((int)(((byte)(162)))));
+            this.pcFace.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
             this.pcFace.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pcFace.Image = global::hub_stefanini_1.Properties.Resources.face;
-            this.pcFace.Location = new System.Drawing.Point(32, 593);
+            this.pcFace.Location = new System.Drawing.Point(11, 20);
             this.pcFace.Name = "pcFace";
             this.pcFace.Size = new System.Drawing.Size(24, 24);
             this.pcFace.TabIndex = 5;
@@ -145,15 +147,24 @@
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(89)))), ((int)(((byte)(152)))));
+            this.panel3.Controls.Add(this.lbSoc);
+            this.panel3.Controls.Add(this.pcFace);
+            this.panel3.Controls.Add(this.pcTwt);
+            this.panel3.Controls.Add(this.pcYou);
+            this.panel3.Controls.Add(this.pcLink);
+            this.panel3.Location = new System.Drawing.Point(37, 581);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(132, 70);
+            this.panel3.TabIndex = 10;
+            // 
             // TelaZero
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.lbSoc);
-            this.Controls.Add(this.pcTwt);
-            this.Controls.Add(this.pcLink);
-            this.Controls.Add(this.pcYou);
-            this.Controls.Add(this.pcFace);
+            this.Controls.Add(this.panel3);
             this.Controls.Add(this.labelCopy);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.pictureBox2);
@@ -164,6 +175,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pcYou)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcFace)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -180,5 +193,6 @@
         private System.Windows.Forms.PictureBox pcLink;
         private System.Windows.Forms.PictureBox pcTwt;
         private System.Windows.Forms.Label lbSoc;
+        private System.Windows.Forms.Panel panel3;
     }
 }
