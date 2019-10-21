@@ -63,7 +63,7 @@ namespace hub_stefanini_1
             telaZero1.Visible = false;
             webBrowser1.Visible = true;
             webBrowser1.BringToFront();
-            webBrowser1.Navigate("http://horas.stefanini.com/");
+            webBrowser1.Navigate("http://portalhoras.stefanini.com/");
             btnScreen.BringToFront();
 
             while ((webBrowser1.ReadyState != WebBrowserReadyState.Complete))
